@@ -36,7 +36,7 @@ module.exports = {
         {
             type: "list",
             name: "departmentId",
-            message: "Please select Department",
+            message: "Please select Department:",
             choices: departmentChoices,
         },
     ],
