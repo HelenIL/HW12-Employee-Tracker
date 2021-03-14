@@ -47,7 +47,7 @@ run node index.js
 
 <h2>Command line application in action:</h2>
 
-![Employee Database](assets/em_db_vid.gif)
+![Employee Database](assets/em_db_video.mp4)
 
 ## Questions/Contact
 
