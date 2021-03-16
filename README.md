@@ -47,7 +47,7 @@ run node index.js
 
 <h2>Command line application in action:</h2>
 
-![Employee Database](assets/em_db_video.mp4)
+Link to video walkthrough <a href="https://drive.google.com/file/d/1r6xvZWYEORiUDVRXEx745FsiQ4zVoBjP/view">HERE</a><br><br>
 
 ## Questions/Contact
 
